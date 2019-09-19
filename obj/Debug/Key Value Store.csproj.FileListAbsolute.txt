@@ -1,0 +1,7 @@
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\bin\Debug\Key Value Store.exe.config
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\bin\Debug\Key Value Store.exe
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\bin\Debug\Key Value Store.pdb
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\obj\Debug\Key Value Store.csprojAssemblyReference.cache
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\obj\Debug\Key Value Store.csproj.CoreCompileInputs.cache
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\obj\Debug\Key Value Store.exe
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Key Value Store\obj\Debug\Key Value Store.pdb
